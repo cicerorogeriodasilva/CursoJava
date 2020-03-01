@@ -8,7 +8,7 @@ Lembrando que, por definição, fatorial de 0 é 1.
  */
 
 public class uri1153 {
-
+	
 	public static void main(String[] args) {
 
 		Scanner sc = new Scanner(System.in);

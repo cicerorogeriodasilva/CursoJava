@@ -20,7 +20,6 @@ public class cond01 {
 		else {
 			System.out.println("NAO NEGATIVO");
 		}
-
 		sc.close();
 	}
 }

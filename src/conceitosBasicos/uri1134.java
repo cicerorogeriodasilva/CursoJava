@@ -39,7 +39,6 @@ public class uri1134 {
 			
 			tipo = sc.nextInt();
 		}
-
 		System.out.println("MUITO OBRIGADO");
 		System.out.println("Alcool: " + alcool);
 		System.out.println("Gasolina: " + gasolina);
